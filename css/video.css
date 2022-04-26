@@ -1,0 +1,22 @@
+#divVideo{
+  background-color: transparent;
+  width: 600px;
+  text-align: center;
+  float: right;
+  margin-top: 50px;
+  margin-left: 50px;
+  border-radius: 20px;
+}
+#video{
+  border-radius: 20px;
+  margin-top: 30px;
+  width: 400px;
+}
+#titulo{
+  margin-top: 10px;
+  margin-bottom: 40px;
+  text-shadow: 30;
+  color: #A30880;
+  text-shadow: 1px 1px 3px;
+  font-family: sans-serif;
+}
